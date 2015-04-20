@@ -1,3 +1,3 @@
-import AddonSkeletonComponent 'addon-skeleton-component/components/addon';
+import AddonSkeletonComponent from 'addon-skeleton-component/components/addon';
 
 export default AddonSkeletonComponent;
